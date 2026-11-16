@@ -286,7 +286,7 @@ Thanks https://github.com/shahrilnet/remote_lua_loader/blob/main/SETUP.md for th
 - [@Gezine](https://github.com/Gezine) - For giving me some important clues
 - [remote_lua_loader](https://github.com/shahrilnet/remote_lua_loader) - Being the reference for things like syscall
 - [unsafe-python](https://github.com/DavidBuchanan314/unsafe-python) - Inspiration for unsafe memory access in Python
-- [@ChampionLeake][https://github.com/ChampionLeake) - "One Night Stand" Ren'py port
+- [@ChampionLeake](https://github.com/ChampionLeake) - "One Night Stand" Ren'py port
 - And anyone else who helped me!
 
 ## Disclaimer
